@@ -1,0 +1,7 @@
+Ringkasan Materi:
+- int(), float(), dan str() mengubah nilai ke tipe yang sesuai. Konversi diperlukan sebelum nilai input digunakan dalam operasi numerik.
+- input() menerima teks dari pengguna dan selalu menghasilkan string, termasuk ketika pengguna mengetik angka.
+- String dapat digabungkan, sedangkan f-string menyisipkan nilai variabel ke dalam teks keluaran dengan bentuk f"...{variabel}...".
+- Operator perbandingan membandingkan nilai dan menghasilkan boolean: True atau False.
+- Operator logika and, or, dan not menggabungkan atau membalik kondisi.
+- if, elif, dan else memilih tindakan berdasarkan kondisi. Urutan kondisi menentukan cabang yang dijalankan.
