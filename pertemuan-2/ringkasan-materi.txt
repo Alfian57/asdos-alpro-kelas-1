@@ -6,3 +6,6 @@ Ringkasan materi:
 - Nilai dasar meliputi string untuk teks, integer untuk bilangan bulat, float untuk bilangan desimal, dan boolean untuk nilai True atau False.
 - Operator aritmatika mencakup penjumlahan (+), pengurangan (-), perkalian (*), pembagian (/), pembagian bulat (//), sisa bagi (%), dan pangkat (**).
 - Variabel menyimpan nilai dan assignment menghubungkan nama variabel dengan nilai. Nama yang mudah dibaca umumnya menggunakan snake_case.
+
+Challenge:
+- Program Konversi suhu celcius ke fahreinheit

@@ -1,4 +1,4 @@
-# CHALLENGE
+# CHALLENGE - Program Konversi Suhu Celcius ke Fahreinheit
 
 # Suhu dalam Celsius yang akan dikonversi; ubah nilai ini untuk mencoba suhu lain.
 celsius = 25
