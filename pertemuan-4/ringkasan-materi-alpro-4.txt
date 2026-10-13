@@ -1,0 +1,5 @@
+Ringkasan Materi:Ringkasan Materi:
+- PascalCase lazim digunakan untuk nama class dan UPPER_CASE untuk konstanta; pada materi ini penamaan berfokus pada snake_case.
+- Perulangan mengulang instruksi. Pola umumnya memiliki nilai awal, kondisi, isi perulangan, dan perubahan nilai.
+- while mengulang selama kondisinya benar; perubahan nilai harus memastikan kondisi akhirnya berhenti.
+- break menghentikan perulangan, sedangkan continue melewati sisa instruksi pada iterasi berjalan.
