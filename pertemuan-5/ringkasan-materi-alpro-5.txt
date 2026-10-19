@@ -1,0 +1,5 @@
+Ringkasan Materi:
+- def digunakan untuk mendefinisikan fungsi, yaitu blok kode terorganisir yang dapat digunakan kembali (reusable) untuk menghindari penulisan kode berulang (DRY).
+- Parameter adalah variabel penampung input pada definisi fungsi, sedangkan argumen adalah nilai nyata yang dikirimkan saat fungsi dipanggil.
+- Fungsi dapat mengembalikan nilai pemrosesan menggunakan kata kunci return, sehingga hasilnya dapat ditampung ke dalam variabel atau diolah lebih lanjut.
+- Fungsi dapat dikombinasikan dengan struktur kendali seperti percabangan (if-else) dan perulangan (while True) untuk membuat program yang modular, interaktif, dan mudah dirawat.
